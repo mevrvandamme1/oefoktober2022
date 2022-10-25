@@ -18,8 +18,10 @@ namespace toetsoef2
         }
 
         private void button1_Click(object sender, EventArgs e)
-        {
-            MessageBox.Show("ikke");
+        { for (int teller = 0; teller < 5; teller++)
+            {
+                MessageBox.Show("ikke");
+            }
         }
     }
 }

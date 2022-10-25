@@ -1,0 +1,10 @@
+C:\Users\maggi\OneDrive\Documenten\mama school\toetsgip\toetsoef2\toetsoef2\bin\Debug\toetsoef2.exe.config
+C:\Users\maggi\OneDrive\Documenten\mama school\toetsgip\toetsoef2\toetsoef2\bin\Debug\toetsoef2.exe
+C:\Users\maggi\OneDrive\Documenten\mama school\toetsgip\toetsoef2\toetsoef2\bin\Debug\toetsoef2.pdb
+C:\Users\maggi\OneDrive\Documenten\mama school\toetsgip\toetsoef2\toetsoef2\obj\Debug\toetsoef2.csproj.AssemblyReference.cache
+C:\Users\maggi\OneDrive\Documenten\mama school\toetsgip\toetsoef2\toetsoef2\obj\Debug\toetsoef2.Form1.resources
+C:\Users\maggi\OneDrive\Documenten\mama school\toetsgip\toetsoef2\toetsoef2\obj\Debug\toetsoef2.Properties.Resources.resources
+C:\Users\maggi\OneDrive\Documenten\mama school\toetsgip\toetsoef2\toetsoef2\obj\Debug\toetsoef2.csproj.GenerateResource.cache
+C:\Users\maggi\OneDrive\Documenten\mama school\toetsgip\toetsoef2\toetsoef2\obj\Debug\toetsoef2.csproj.CoreCompileInputs.cache
+C:\Users\maggi\OneDrive\Documenten\mama school\toetsgip\toetsoef2\toetsoef2\obj\Debug\toetsoef2.exe
+C:\Users\maggi\OneDrive\Documenten\mama school\toetsgip\toetsoef2\toetsoef2\obj\Debug\toetsoef2.pdb
